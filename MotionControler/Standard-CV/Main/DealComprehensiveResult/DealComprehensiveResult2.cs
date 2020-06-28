@@ -253,6 +253,6 @@ namespace Main
                 #endregion 显示和日志记录
             }
         }
-        #endregion 位置4拍照
+        #endregion 位置4拍照 
     }
 }
